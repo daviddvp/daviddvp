@@ -8,7 +8,7 @@ I'm currently working in cloud ops but I would like to switch my carreer to the 
 
 *   🌍  I'm based in Madrid
 *   ✉️  You can contact me at [delvallepuadodavid@gmail.com](mailto:delvallepuadodavid@gmail.com)
-*   🧠  I'm learning Javascript
+*   🧠  I'm learning Javascript and Tailwind CSS
 *   🤝  I'm open to collaborating on web development
 ### Skills
 <p align="left">
