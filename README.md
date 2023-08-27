@@ -7,7 +7,7 @@ I am a self-taught front end developer.
 I'm currently working in cloud ops but I would like to change my carreer to development
 
 *   🌍  I'm based in Madrid
-*   ✉️  You can contact me at [delvallepuadodavid@gmail.com](mailto:delvallepuadodavid@gmail.com)
+*   ✉️  You can contact me at [david@delvalledev.com](mailto:david@delvalledev.com)
 *   🧠  I'm learning Javascript and Docker
 *   🤝  I'm open to collaborating on web development
   
