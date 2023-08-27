@@ -4,7 +4,7 @@ Hi 👋 My name is David
 I am a self-taught front end developer.
 ---------------------------------------
 
-I'm currently working in cloud ops but I would like to switch my carreer to the web development
+I'm currently working in cloud ops but I would like to change my carreer to development
 
 *   🌍  I'm based in Madrid
 *   ✉️  You can contact me at [delvallepuadodavid@gmail.com](mailto:delvallepuadodavid@gmail.com)
