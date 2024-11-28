@@ -1,6 +1,10 @@
 # 💫 About Me:
-I am working in systems administration and cloud operations, and I also do web programming projects as a hobby.
+👨‍💻 DevOps | 💡 Passionate about programming
+🚀 About Me:
+I’m a DevOps enthusiast with experience in automation, continuous integration, and cloud deployment. I enjoy designing scalable and efficient systems that simplify processes and enhance productivity.
 
+💻 Hobbies:
+In my free time, I focus on programming as a way to learn, experiment, and create personal projects. I love exploring new languages, frameworks, and tools that expand my skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/delvallepuadodavid@gmail.com) 
