@@ -1,3 +1,5 @@
+Please ignore the Github Actions repositories, I am taking a course.
+
 # 💫 About Me:
 👨‍💻 DevOps | 💡 Passionate about programming
 🚀 I’m a DevOps enthusiast with experience in automation, continuous integration, and cloud deployment. I enjoy designing scalable and efficient systems that simplify processes and enhance productivity.
